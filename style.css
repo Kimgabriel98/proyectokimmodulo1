@@ -16,13 +16,20 @@ header{
 body{
     background-color:cornsilk;
 }
+#isologo{
+    max-height: 20vh;
+    /*transform: scale(0.2);*/
+}
 nav > div {
+    
     font-size: 3em;
     font-weight: bold;
     text-shadow: 2px 1px black;
     margin-left: 1em;
 }
+
 nav{
+    
     background-color: bisque;
     margin-left: 1em;
     margin-right: 1em;
